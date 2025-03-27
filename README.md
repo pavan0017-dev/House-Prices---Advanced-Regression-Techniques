@@ -28,7 +28,6 @@ This project aims to build a machine learning model to predict house prices base
   - Random Forest
   - Gradient Boosting
 - Applied cross-validation and hyperparameter tuning for optimization.
-- Implemented K-fold validation, where one fold was left out per iteration.
 - Generated predictions on the validation set and test set.
 
 ### 4. Model Evaluation
@@ -58,7 +57,6 @@ This project aims to build a machine learning model to predict house prices base
 
 🔹 Helps estimate house prices for buyers, sellers, and real estate professionals.
 🔹 Provides insights into key factors influencing property values.
-🔹 Covers essential ML concepts: Handling Missing Values, Feature Engineering, Hyperparameter Optimization, and Model Building.
 🔹 Exploratory Data Analysis (EDA) helped in feature creation and removing unnecessary attributes.
 
 ## 🛠 Technologies Used
@@ -68,6 +66,5 @@ This project aims to build a machine learning model to predict house prices base
 - Matplotlib, Seaborn
 - XGBoost, LightGBM
 
----
-**Author:** Your Name  
-**Kaggle Link:** [GitHub Link](https://www.kaggle.com/code/pavankumar017/house-prices-prediction-simple-model-blendingtop5/notebook)
+--- 
+**Kaggle Link:** [Kaggle Link](https://www.kaggle.com/code/pavankumar017/house-prices-prediction-simple-model-blendingtop5/notebook)
